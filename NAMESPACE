@@ -1,0 +1,4 @@
+useDynLib(HDcpDetect, .registration = TRUE)
+importFrom("stats", "pnorm", "qnorm", "rnorm")
+export(binary.segmentation)
+export(wild.binary.segmentation)

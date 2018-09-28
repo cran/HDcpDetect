@@ -1,0 +1,17 @@
+c7b93be5a791cc69def62f0da3690f5f *DESCRIPTION
+48e655f42c5279cf2d75ffb7c4f3e915 *NAMESPACE
+f9add4186d7f33f9a14037221c9b93a3 *R/HAPT.R
+34cb0661a68e50cc685399bfe91b2e23 *R/functions.R
+396a92b8ad30c37883f8b97592964778 *R/gestureVelocity.R
+03b9e1db6418d1d08cfead88f9453f6f *README.md
+881a5b201d47602778a0b6515bc95f65 *data/HAPT.rda
+5abeec9b6067fb2abf45d44c1688ea56 *data/datalist
+0cb3525bbfc3a6e95d354d5da28d0826 *data/gestureVelocity.rda
+849ae775ae5a73ce861456752e20a6f2 *man/HAPT.Rd
+e498ac3a85f5f11e15bd9d4109f1b07c *man/binary.segmentation.Rd
+a850efa74df9c7a850bbc0150c01665a *man/gestureVelocity.Rd
+1b63e1486bb1b93deb6019118b3929bf *man/wild.binary.segmentation.Rd
+00dc86261cbd80638138a3a4921ce956 *src/code1.f
+b28587cbf0d59a345285f743970f097b *src/code2.f
+123f123c2cd449887f4f3aefa96cf0e6 *src/code3.f
+794a5a60f62b762e642f8aeb69ec04b1 *src/init.c
